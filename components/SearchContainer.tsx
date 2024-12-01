@@ -13,10 +13,20 @@ export function SearchContainer() {
       return searchData.split("\n").filter(line => line.trim());
     }
     
-    const query = searchQuery.toLowerCase();
+    // Split the query into terms and filter out empty strings
+    const searchTerms = searchQuery
+      .toLowerCase()
+      .split(/\s+/)
+      .filter(term => term.length > 0);
+
     return searchData
       .split("\n")
-      .filter(line => line.trim() && line.toLowerCase().includes(query));
+      .filter(line => {
+        if (!line.trim()) return false;
+        const normalizedLine = line.toLowerCase();
+        // Check if all search terms are present in the line
+        return searchTerms.every(term => normalizedLine.includes(term));
+      });
   }, [searchQuery]);
 
   return (
