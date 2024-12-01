@@ -1,6 +1,7 @@
 import { SearchContainer } from "@/components/SearchContainer";
+import type { NextPage } from 'next';
 
-export default function Home() {
+const Home: NextPage = () => {
   return (
     <main className="container mx-auto py-8 px-4">
       <div className="max-w-2xl mx-auto space-y-6">
@@ -15,3 +16,5 @@ export default function Home() {
     </main>
   );
 }
+
+export default Home;
