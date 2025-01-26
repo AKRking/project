@@ -1,1018 +1,592 @@
 export const searchData = `
-Accounting 0452
- IG-ACC-qp1-2019 to 2024 (+৳ 490)
-
- IG-ACC-qp1-2016 to 2018 (+৳ 390)
-
- IG-ACC-qp1-2012 to 2015 (+৳ 480)
-
- IG-ACC-qp1-2002 to 2011 (+৳ 380)
-
- IG-ACC-qp2-2021 to 2024 (+৳ 440)
-
- IG-ACC-qp2-2018 to 2020 (+৳ 390)
-
- IG-ACC-qp2-2014 to 2017 (+৳ 490)
-
- IG-ACC-qp2-2006 to 2013 (+৳ 490)
-
- IG-ACC-qp2-2002 to 2005 (+৳ 90)
-
- IG-ACC-qp3-2002 to 2009 (+৳ 270)
-
-Accounting (9-1) 0985
- IG-ACC-qp1-2020 to 2024 (+৳ 190)
-
- IG-ACC-qp2-2020 to 2024 (+৳ 270)
-
-Additional math 0606
- IG-ADD-qp1-2020 to 2024 (+৳ 480)
-
- IG-ADD-qp1-2015 to 2019 (+৳ 490)
-
- IG-ADD-qp1-2002 to 2014 (+৳ 480)
-
- IG-ADD-qp2-2020 to 2024 (+৳ 470)
-
- IG-ADD-qp2-2015 to 2019 (+৳ 490)
-
- IG-ADD-qp2-2002 to 2014 (+৳ 480)
-
-biology-0610
- IG-BIO-qp1-2020 to 2024 (+৳ 490)
-
- IG-BIO-qp1-2016 to 2019 (+৳ 440)
-
- IG-BIO-qp1-2011 to 2015 (+৳ 490)
-
- IG-BIO-qp1-2002 to 2010 (+৳ 380)
-
- IG-BIO-qp2-2020 to 2024 (+৳ 480)
-
- IG-BIO-qp2-2016 to 2019 (+৳ 440)
-
- IG-BIO-qp2-2011 to 2015 (+৳ 530)
-
- IG-BIO-qp2-2002 to 2010 (+৳ 290)
-
- IG-BIO-qp3-2021 to 2024 (+৳ 440)
-
- IG-BIO-qp3-2017 to 2020 (+৳ 470)
-
- IG-BIO-qp3-2013 to 2016 (+৳ 470)
-
- IG-BIO-qp3-2006 to 2012 (+৳ 490)
-
- IG-BIO-qp3-2002 to 2005 (+৳ 90)
-
- IG-BIO-qp4-2021 to 2024 (+৳ 440)
-
- IG-BIO-qp4-2017 to 2020 (+৳ 480)
-
- IG-BIO-qp4-2016 to 2016 (+৳ 160)
-
- IG-BIO-qp5-2018 to 2024 (+৳ 470)
-
- IG-BIO-qp5-2007 to 2017 (+৳ 490)
-
- IG-BIO-qp5-2002 to 2006 (+৳ 90)
-
- IG-BIO-qp6-2018 to 2024 (+৳ 490)
-
- IG-BIO-qp6-2009 to 2017 (+৳ 530)
-
- IG-BIO-qp6-2002 to 2008 (+৳ 160)
-
-biology (9-1)-0970
- IG-BIO-qp1-2018 to 2023 (+৳ 240)
-
- IG-BIO-qp2-2018 to 2023 (+৳ 270)
-
- IG-BIO-qp3-2018 to 2023 (+৳ 260)
-
- IG-BIO-qp4-2018 to 2023 (+৳ 290)
-
- IG-BIO-qp5-2018 to 2023 (+৳ 130)
-
- IG-BIO-qp6-2018 to 2023 (+৳ 190)
-
-Business Studies-0450
- IG-BUS-qp1-2017 to 2024 (+৳ 530)
-
- IG-BUS-qp1-2010 to 2016 (+৳ 440)
-
- IG-BUS-qp2-2019 to 2024 (+৳ 490)
-
- IG-BUS-qp2-2013 to 2018 (+৳ 490)
-
- IG-BUS-qp2-2010 to 2012 (+৳ 260)
-
-Business Studie (9-1)-0986
- IG-BUS-qp1-2019 to 2023 (+৳ 160)
-
- IG-BUS-qp2-2019 to 2023 (+৳ 190)
-
-Chemistry-0620
- IG-CHE-qp1-2020 to 2024 (+৳ 450)
-
- IG-CHE-qp1-2015 to 2019 (+৳ 490)
-
- IG-CHE-qp1-2009 to 2014 (+৳ 490)
-
- IG-CHE-qp1-2002 to 2008 (+৳ 240)
-
- IG-CHE-qp2-2020 to 2024 (+৳ 490)
-
- IG-CHE-qp2-2015 to 2019 (+৳ 490)
-
- IG-CHE-qp2-2007 to 2014 (+৳ 490)
-
- IG-CHE-qp2-2002 to 2006 (+৳ 180)
-
- IG-CHE-qp3-2021 to 2024 (+৳ 430)
-
- IG-CHE-qp3-2017 to 2020 (+৳ 460)
-
- IG-CHE-qp3-2011 to 2016 (+৳ 480)
-
- IG-CHE-qp3-2002 to 2010 (+৳ 340)
-
- IG-CHE-qp4-2020 to 2024 (+৳ 440)
-
- IG-CHE-qp4-2016 to 2019 (+৳ 390)
-
- IG-CHE-qp5-2018 to 2024 (+৳ 480)
-
- IG-CHE-qp5-2002 to 2017 (+৳ 470)
-
- IG-CHE-qp6-2018 to 2024 (+৳ 490)
-
- IG-CHE-qp6-2011 to 2017 (+৳ 460)
-
- IG-CHE-qp6-2002 to 2010 (+৳ 280)
-
-Chemistry (9-1)-0971
- IG-CHE-qp1-2018 to 2023 (+৳ 190)
-
- IG-CHE-qp2-2018 to 2023 (+৳ 270)
-
- IG-CHE-qp3-2018 to 2023 (+৳ 250)
-
- IG-CHE-qp4-2018 to 2023 (+৳ 240)
-
- IG-CHE-qp5-2018 to 2023 (+৳ 140)
-
- IG-CHE-qp6-2018 to 2023 (+৳ 190)
-
-Computer Science-0478
- IG-COM-qp1-2018 to 2024 (+৳ 490)
-
- IG-COM-qp1-2015 to 2017 (+৳ 260)
-
- IG-COM-qp2-2019 to 2024 (+৳ 490)
-
- IG-COM-qp2-2015 to 2018 (+৳ 290)
-
-Computer Science (9-1)-0984
- IG-COM-qp1-2019 to 2023 (+৳ 170)
-
- IG-COM-qp2-2019 to 2023 (+৳ 190)
-
-English – Second Language (9-1)-0991
- IG-ENG-qp1-2019 to 2024 (+৳ 240)
-
- IG-ENG-qp2-2019 to 2024 (+৳ 250)
-
- IG-ENG-qp3-2019 to 2023 (+৳ 140)
-
- IG-ENG-qp4-2019 to 2023 (+৳ 170)
-
-English Literature in English -0475
- IG-ENG-qp1-2021 to 2024 (+৳ 490)
-
- IG-ENG-qp1-2020 to 2020 (+৳ 190)
-
- IG-ENG-qp2-2020 to 2024 (+৳ 340)
-
- IG-ENG-qp3-2020 to 2024 (+৳ 340)
-
- IG-ENG-qp4-2020 to 2024 (+৳ 190)
-
-English Literature in English (9-1) 0992
- IG-ENG-qp1-2019 to 2024 (+৳ 290)
-
- IG-ENG-qp2-2019 to 2024 (+৳ 160)
-
- IG-ENG-qp3-2019 to 2024 (+৳ 160)
-
- IG-ENG-qp4-2019 to 2024 (+৳ 90)
-
-economics 9-1 -0987
- IG-ECO-qp1-2020 to 2024 (+৳ 180)
-
- IG-ECO-qp2-2020 to 2024 (+৳ 90)
-
-economics-0455
- IG-ECO-qp1-2018 to 2024 (+৳ 490)
-
- IG-ECO-qp1-2008 to 2017 (+৳ 530)
-
- IG-ECO-qp1-2002 to 2007 (+৳ 170)
-
- IG-ECO-qp2-2002 to 2024 (+৳ 480)
-
- IG-ECO-qp3-2002 to 2013 (+৳ 390)
-
- IG-ECO-qp4-2002 to 2008 (+৳ 90)
-
- IG-ECO-qp6-2002 to 2008 (+৳ 90)
-
-English 0500
- IG-ENG-qp1-2022-2024 (+৳ 420)
-
- IG-ENG-qp1-2018-2021 (+৳ 460)
-
- IG-ENG-qp1-2014-2017 (+৳ 350)
-
- IG-ENG-qp2-2020-2024 (+৳ 440)
-
- IG-ENG-qp2-2016-2019 (+৳ 450)
-
- IG-ENG-qp2-2014-2015 (+৳ 230)
-
- IG-ENG-qp3-2015-2019 (+৳ 470)
-
- IG-ENG-qp3-2014-2014 (+৳ 110)
-
-English as a Second Language (Speaking endorsement)-0510
- IG-ENG-qp1-2018 to 2024 (+৳ 490)
-
- IG-ENG-qp1-2014 to 2017 (+৳ 330)
-
- IG-ENG-qp2-2018 to 2024 (+৳ 490)
-
- IG-ENG-qp2-2014 to 2017 (+৳ 380)
-
- IG-ENG-qp3-2014 to 2023 (+৳ 390)
-
- IG-ENG-qp4-2014 to 2023 (+৳ 490)
-
-English as a Second Language (Count-in speaking)-0511
- IG-ENG-qp1-2023 to 2024 (+৳ 130)
-
- IG-ENG-qp2-2023 to 2024 (+৳ 90)
-
- IG-ENG-qp3-2023 to 2023 (+৳ 70)
-
- IG-ENG-qp4-2023 to 2023 (+৳ 70)
-
-English as a Second Language (Speaking endorsement (9-1)-0993
- IG-ENG-qp1-2023 to 2024 (+৳ 90)
-
- IG-ENG-qp2-2023 to 2024 (+৳ 90)
-
- IG-ENG-qp3-2023 to 2023 (+৳ 60)
-
- IG-ENG-qp4-2023 to 2023 (+৳ 60)
-
-Environmental Management 0680
- IG-ENV-qp1-2021 to 2024 (+৳ 440)
-
- IG-ENV-qp1-2016 to 2020 (+৳ 490)
-
- IG-ENV-qp1-2008 to 2015 (+৳ 490)
-
- IG-ENV-qp1-2004 to 2007 (+৳ 140)
-
- IG-ENV-qp2-2021 to 2024 (+৳ 480)
-
- IG-ENV-qp2-2017 to 2020 (+৳ 490)
-
- IG-ENV-qp2-2012 to 2016 (+৳ 490)
-
- IG-ENV-qp2-2004 to 2011 (+৳ 370)
-
- IG-ENV-qp4-2014 to 2018 (+৳ 480)
-
- IG-ENV-qp4-2004 to 2013 (+৳ 530)
-
-ICT-0417
-Information and Communication Technology ict
-
- IG-INF-qp1-2020 to 2024 (+৳ 470)
-
- IG-INF-qp1-2015 to 2019 (+৳ 490)
-
- IG-INF-qp1-2010 to 2014 (+৳ 390)
-
- IG-INF-qp2-2010 to 2024 (+৳ 490)
-
- IG-INF-qp3-2010 to 2024 (+৳ 380)
-
-ICT 9-1-0983
-Information and Communication Technology ict
-
- IG-INF-qp1-2020 to 2024 (+৳ 170)
-
- IG-INF-qp2-2020 to 2024 (+৳ 190)
-
- IG-INF-qp3-2020 to 2024 (+৳ 140)
-
-MATH US-0444
- IG-MAT-qp1-2016 to 2020 (+৳ 130)
-
- IG-MAT-qp2-2016 to 2023 (+৳ 190)
-
- IG-MAT-qp3-2016 to 2020 (+৳ 170)
-
- IG-MAT-qp4-2016 to 2023 (+৳ 290)
-
-MATH-0580
- IG-MAT-qp1-2018 to 2024 (+৳ 480)
-
- IG-MAT-qp1-2011 to 2017 (+৳ 480)
-
- IG-MAT-qp1-2002 to 2010 (+৳ 290)
-
- IG-MAT-qp2-2019 to 2024 (+৳ 460)
-
- IG-MAT-qp2-2013 to 2018 (+৳ 480)
-
- IG-MAT-qp2-2002 to 2012 (+৳ 430)
-
- IG-MAT-qp3-2021 to 2024 (+৳ 440)
-
- IG-MAT-qp3-2017 to 2020 (+৳ 450)
-
- IG-MAT-qp3-2012 to 2016 (+৳ 490)
-
- IG-MAT-qp3-2002 to 2011 (+৳ 380)
-
- IG-MAT-qp4-2021 to 2024 (+৳ 470)
-
- IG-MAT-qp4-2017 to 2020 (+৳ 490)
-
- IG-MAT-qp4-2013 to 2016 (+৳ 460)
-
- IG-MAT-qp4-2002 to 2012 (+৳ 470)
-
-MATH INTERNATIONAL-0607
- IG-MAT-qp1-2015 to 2024 (+৳ 490)
-
- IG-MAT-qp1-2009 to 2014 (+৳ 190)
-
- IG-MAT-qp2-2015 to 2024 (+৳ 490)
-
- IG-MAT-qp2-2009 to 2014 (+৳ 190)
-
- IG-MAT-qp3-2020 to 2024 (+৳ 470)
-
- IG-MAT-qp3-2015 to 2019 (+৳ 480)
-
- IG-MAT-qp3-2009 to 2014 (+৳ 340)
-
- IG-MAT-qp4-2021 to 2024 (+৳ 470)
-
- IG-MAT-qp4-2017 to 2020 (+৳ 450)
-
- IG-MAT-qp4-2012 to 2016 (+৳ 490)
-
- IG-MAT-qp4-2009 to 2011 (+৳ 150)
-
- IG-MAT-qp5-2010 to 2024 (+৳ 530)
-
- IG-MAT-qp5-2009 to 2009 (+৳ 50)
-
- IG-MAT-qp6-2019 to 2024 (+৳ 490)
-
- IG-MAT-qp6-2009 to 2018 (+৳ 440)
-
-MATH (9-1)-0980
- IG-MAT-qp1-2019 to 2023 (+৳ 140)
-
- IG-MAT-qp2-2019 to 2023 (+৳ 150)
-
- IG-MAT-qp3-2019 to 2023 (+৳ 190)
-
- IG-MAT-qp4-2019 to 2023 (+৳ 190)
-
-physics-0625
- IG-PHY-qp1-2020 to 2024 (+৳ 490)
-
- IG-PHY-qp1-2016 to 2019 (+৳ 470)
-
- IG-PHY-qp1-2012 to 2015 (+৳ 450)
-
- IG-PHY-qp1-2002 to 2011 (+৳ 490)
-
- IG-PHY-qp2-2020 to 2024 (+৳ 490)
-
- IG-PHY-qp2-2016 to 2019 (+৳ 450)
-
- IG-PHY-qp2-2011 to 2015 (+৳ 490)
-
- IG-PHY-qp2-2002 to 2010 (+৳ 360)
-
- IG-PHY-qp3-2020 to 2024 (+৳ 480)
-
- IG-PHY-qp3-2016 to 2019 (+৳ 470)
-
- IG-PHY-qp3-2011 to 2015 (+৳ 490)
-
- IG-PHY-qp3-2002 to 2010 (+৳ 390)
-
- IG-PHY-qp4-2020 to 2024 (+৳ 480)
-
- IG-PHY-qp4-2016 to 2019 (+৳ 460)
-
- IG-PHY-qp5-2018 to 2024 (+৳ 490)
-
- IG-PHY-qp5-2009 to 2017 (+৳ 490)
-
- IG-PHY-qp5-2002 to 2008 (+৳ 150)
-
- IG-PHY-qp6-2018 to 2024 (+৳ 530)
-
- IG-PHY-qp6-2012 to 2017 (+৳ 490)
-
- IG-PHY-qp6-2002 to 2011 (+৳ 290)
-
-physics (9-1)-0972
- IG-PHY-qp1-2018 to 2023 (+৳ 240)
-
- IG-PHY-qp2-2018 to 2023 (+৳ 260)
-
- IG-PHY-qp3-2018 to 2023 (+৳ 240)
-
- IG-PHY-qp4-2018 to 2023 (+৳ 260)
-
- IG-PHY-qp5-2018 to 2023 (+৳ 140)
-
- IG-PHY-qp6-2018 to 2023 (+৳ 190)
-
-sociology-0495
- IG-SOC-qp1-2016 to 2024 (+৳ 190)
-
- IG-SOC-qp2-2016 to 2024 (+৳ 190)
-
-islamiyat-0493
- IG-ISL-qp1-2016 to 2024 (+৳ 490)
-
- IG-ISL-qp2-2016 to 2024 (+৳ 490)
-================================================================================
-Accounting 7707
- OL-ACC-qp1-2012 to 2024 (+৳ 490)
-
- OL-ACC-qp1-2002 to 2011 (+৳ 250)
-
- OL-ACC-qp2-2018 to 2024 (+৳ 490)
-
- OL-ACC-qp2-2011 to 2017 (+৳ 530)
-
- OL-ACC-qp2-2002 to 2010 (+৳ 280)
-
-Additional Maths 4037
- OL-ADD-qp1-2016 to 2024 (+৳ 490)
-
- OL-ADD-qp1-2002 to 2015 (+৳ 460)
-
- OL-ADD-qp2-2016 to 2024 (+৳ 490)
-
- OL-ADD-qp2-2002 to 2015 (+৳ 450)
-
-BENGALI 3204
- OL-BEN-qp1 and qp2-2004 to 2024 (+৳ 450)
-
-BD Studies 7094
- OL-BDS-qp1-2006 to 2024 (+৳ 160)
-
- OL-BDS-qp2-2006 to 2024 (+৳ 330)
-
- OL-BDS-P2-2010 to 2024 (Color Inserts) (+৳ 220)
-
-BIOLOGY 5090
- OL-BIO-qp1-2017 to 2024 (+৳ 490)
-
- OL-BIO-qp1-2010 to 2016 (+৳ 490)
-
- OL-BIO-qp1-2002 to 2009 (+৳ 280)
-
- OL-BIO-qp2-2016 to 2024 (+৳ 480)
-
- OL-BIO-qp2-2002 to 2015 (+৳ 490)
-
- OL-BIO-qp3-2008 to 2024 (practical) (+৳ 490)
-
- OL-BIO-qp3-2002 to 2007 (practical) (+৳ 90)
-
- OL-BIO-qp4-2010 to 2024 (Alternative to Practical) (+৳ 490)
-
- OL-BIO-qp4-2002 to 2009 (Alternative to Practical) (+৳ 160)
-
-BUSINESS 7115
- OL-BUS-qp1-2012 to 2024 (+৳ 490)
-
- OL-BUS-qp1-2010 to 2011 (+৳ 130)
-
- OL-BUS-qp2-2015 to 2024 (+৳ 490)
-
- OL-BUS-qp2-2010 to 2014 (+৳ 290)
-
-CHEMISTRY 5070
- OL-CHE-qp1-2016 to 2024 (+৳ 490)
-
- OL-CHE-qp1-2005 to 2015 (+৳ 490)
-
- OL-CHE-qp1-2002 to 2004 (+৳ 90)
-
- OL-CHE-qp2-2017 to 2024 (+৳ 490)
-
- OL-CHE-qp2-2010 to 2016 (+৳ 490)
-
- OL-CHE-qp2-2002 to 2009 (+৳ 270)
-
- OL-CHE-qp3-2002 to 2024 (+৳ 490)
-
- OL-CHE-qp4-2015 to 2024 (+৳ 490)
-
- OL-CHE-qp4-2004 to 2014 (+৳ 490)
-
- OL-CHE-qp4-2002 to 2003 (+৳ 90)
-
-COMMERCE 7100
- OL-CMR-qp1-2013 to 2024 (+৳ 490)
-
- OL-CMR-qp1-2002 to 2012 (+৳ 290)
-
- OL-CMR-qp2-2010 to 2024 (+৳ 490)
-
- OL-CMR-qp2-2005 to 2009 (+৳ 130)
-
-COMPUTER SCIENCE 2210 (CURRENT)
- OL-COM-qp1-2015 to 2024 (+৳ 430)
-
- OL-COM-qp2-2015 to 2024 (+৳ 450)
-
-MATHS D 4024
- OL-DMA-qp1-2017 to 2024 (+৳ 490)
-
- OL-DMA-qp1-2011 to 2016 (+৳ 470)
-
- OL-DMA-qp1-2002 to 2010 (+৳ 370)
-
- OL-DMA-qp2-2018 to 2024 (+৳ 490)
-
- OL-DMA-qp2-2012 to 2017 (+৳ 490)
-
- OL-DMA-qp2-2002 to 2011 (+৳ 330)
-
-ECONOMICS 2281
- OL-ECO-qp1-2013 to 2024 (+৳ 490)
-
- OL-ECO-qp1-2003 to 2012 (+৳ 340)
-
- OL-ECO-qp2-2002 to 2024 (+৳ 350)
-
-ENGLISH 1123
- OL-ENG-qp1-2002 to 2024 (+৳ 260)
-
- OL-ENG-qp2-2012 to 2024 (+৳ 490)
-
- OL-ENG-qp2-2002 to 2011 (+৳ 190)
-
-ENVIRONMENT 5014
- OL-ENV-qp1-2016 to 2024 (+৳ 490)
-
- OL-ENV-qp1-2011 to 2015 (+৳ 450)
-
- OL-ENV-qp1-2004 to 2010 (+৳ 380)
-
- OL-ENV-qp2-2015 to 2024 (+৳ 490)
-
- OL-ENV-qp2-2004 to 2014 (+৳ 480)
-
-ISLAMIYAT 2058
- OL-ISL-qp1-2017 to 2024 (+৳ 90)
-
- OL-ISL-qp1-2016 to 2024 (+৳ 490)
-
- OL-ISL-qp1-2002 to 2015 (+৳ 290)
-
- OL-ISL-qp2-2017 to 2024 (+৳ 90)
-
- OL-ISL-qp2-2016 to 2024 (+৳ 490)
-
- OL-ISL-qp2-2003 to 2015 (+৳ 290)
-
- OL-ISL-qp4-2013 to 2013 (+৳ 80)
-
- OL-LIT-qp1-2023 to 2024 (+৳ 140)
-
- OL-LIT-qp2-2023 to 2024 (+৳ 90)
-
-PHYSICS 5054
- OL-PHY-qp1-2017 to 2024 (+৳ 480)
-
- OL-PHY-qp1-2008 to 2016 (+৳ 490)
-
- OL-PHY-qp1-2002 to 2007 (+৳ 190)
-
- OL-PHY-qp2-2017 to 2024 (+৳ 490)
-
- OL-PHY-qp2-2008 to 2016 (+৳ 490)
-
- OL-PHY-qp2-2002 to 2007 (+৳ 190)
-
- OL-PHY-qp3-2013 to 2024 (+৳ 490)
-
- OL-PHY-qp3-2002 to 2012 (+৳ 250)
-
- OL-PHY-qp4-2011 to 2024 (+৳ 490)
-
- OL-PHY-qp4-2002 to 2010 (+৳ 190)
-
-Sociology 2251
- OL-SOC-qp1-2002 to 2024 (+৳ 490)
-
- OL-SOC-qp2-2011 to 2024 (+৳ 470)
-
- OL-SOC-qp2-2002 to 2010 (+৳ 170)
-
-Statistics 4040
- OL-STA-qp1-2009 to 2023 (+৳ 530)
-
- OL-STA-qp1-2002 to 2008 (+৳ 90)
-
- OL-STA-qp2-2008 to 2023 (+৳ 490)
-
- OL-STA-qp2-2002 to 2007 (+৳ 90)
-================================================================================
-
-
-ACCOUNTING 9706
-“AS (Paper 1 and Paper 2) || A2 (Paper 3 and paper 4)
-A2 Paper 4 (problem solving discontinued from 2016)
-(note: Paper 3 2002 to 2015 is MCQ,not needed for current candidates due to syllabus change)”
-
- AL-ACC-qp1-2018 to 2024 (+৳ 470)
-
- AL-ACC-qp1-2009 to 2017 (+৳ 530)
-
- AL-ACC-qp1-2002 to 2008 (+৳ 180)
-
- AL-ACC-qp2-2021 to 2024 (+৳ 430)
-
- AL-ACC-qp2-2017 to 2020 (+৳ 480)
-
- AL-ACC-qp2-2011 to 2016 (+৳ 490)
-
- AL-ACC-qp2-2001 to 2010 (+৳ 290)
-
- AL-ACC-qp3-2022 to 2024 (+৳ 390)
-
- AL-ACC-qp3-2020 to 2021 (+৳ 490)
-
- AL-ACC-qp3-2013 to 2019 (+৳ 490)
-
- AL-ACC-qp3-2002 to 2012 (+৳ 390)
-
- AL-ACC-qp4-2002 to 2024 (+৳ 460)
-
-BUSINESS 9609
-AS Paper 1,2 || A2 Paper 3
-
- AL-BUS-qp1-2016 to 2024 (+৳ 160)
-
- AL-BUS-qp2-2016 to 2024 (+৳ 230)
-
- AL-BUS-qp3-2021 to 2024 (+৳ 460)
-
- AL-BUS-qp3-2018 to 2020 (+৳ 490)
-
- AL-BUS-qp3-2016 to 2017 (+৳ 130)
-
- AL-BUS-qp4-2023 to 2024 (+৳ 80)
-
-BIOLOGY 9700
-AS Paper 1,2,3 || A2 Paper 4,5
-
- AL-BIO-qp1-2021 to 2024 (+৳ 440)
-
- AL-BIO-qp1-2017 to 2020 (+৳ 460)
-
- AL-BIO-qp1-2012 to 2016 (+৳ 490)
-
- AL-BIO-qp1-2002 to 2011 (+৳ 450)
-
- AL-BIO-qp2-2020 to 2024 (+৳ 490)
-
- AL-BIO-qp2-2015 to 2019 (+৳ 480)
-
- AL-BIO-qp2-2007 to 2014 (+৳ 490)
-
- AL-BIO-qp2-2001 to 2006 (+৳ 170)
-
- AL-BIO-qp3-2021 to 2024 (+৳ 490)
-
- AL-BIO-qp3-2018 to 2020 (+৳ 390)
-
- AL-BIO-qp3-2014 to 2017 (+৳ 490)
-
- AL-BIO-qp3-2009 to 2013 (+৳ 490)
-
- AL-BIO-qp3-2001 to 2008 (+৳ 180)
-
- AL-BIO-qp4-2021 to 2024 (+৳ 490)
-
- AL-BIO-qp4-2018 to 2020 (+৳ 440)
-
- AL-BIO-qp4-2013 to 2017 (+৳ 490)
-
- AL-BIO-qp4-2003 to 2012 (+৳ 490)
-
- AL-BIO-qp4-2002 to 2002 (+৳ 70)
-
- AL-BIO-qp5-2017 to 2024 (+৳ 490)
-
- AL-BIO-qp5-2002 to 2016 (+৳ 360)
-
- AL-BIO-qp6-2002 to 2006 (+৳ 290)
-
-CHEMISTRY 9701
-AS Paper 1 , 2 , 3 || A2 Paper 4 , 5
-
- AL-CHE-qp1-2002 to 2005 (+৳ 150)
-
- AL-CHE-qp1-2006 to 2014 (+৳ 530)
-
- AL-CHE-qp1-2015 to 2019 (+৳ 480)
-
- AL-CHE-qp1-2020 to 2024 (+৳ 490)
-
- AL-CHE-qp2-2002 to 2012 (+৳ 380)
-
- AL-CHE-qp2-2013 to 2019 (+৳ 490)
-
- AL-CHE-qp2-2020 to 2024 (+৳ 470)
-
- AL-CHE-qp3-2001 to 2008 (+৳ 190)
-
- AL-CHE-qp3-2009 to 2013 (+৳ 490)
-
- AL-CHE-qp3-2014 to 2017 (+৳ 490)
-
- AL-CHE-qp3-2018 to 2020 (+৳ 440)
-
- AL-CHE-qp3-2021 to 2024 (+৳ 470)
-
- AL-CHE-qp4-2002 to 2006 (+৳ 150)
-
- AL-CHE-qp4-2007 to 2015 (+৳ 530)
-
- AL-CHE-qp4-2016 to 2020 (+৳ 490)
-
- AL-CHE-qp4-2021 to 2024 (+৳ 460)
-
- AL-CHE-qp5-2002 to 2014 (+৳ 370)
-
- AL-CHE-qp5-2015 to 2024 (+৳ 530)
-
- AL-CHE-qp6-2002 to 2006 (+৳ 130)
-
-COMPUTER 9618 (Current)
-AS Paper 1,2 || A2 Paper 3,4 (latest)
-
- AL-COM-qp1-2021 to 2024 (+৳ 290)
-
- AL-COM-qp2-2021 to 2024 (+৳ 440)
-
- AL-COM-qp3-2021 to 2024 (+৳ 270)
-
- AL-COM-qp4-2021 to 2024 (+৳ 240)
-
-COMPUTER 9608
-AS Paper 1,2 || A2 Paper 3,4
-
- AL-COM-qp1-2015 to 2015 (+৳ 130)
-
- AL-COM-qp1-2016 to 2021 (+৳ 490)
-
- AL-COM-qp2-2015 to 2016 (+৳ 240)
-
- AL-COM-qp2-2017 to 2021 (+৳ 490)
-
- AL-COM-qp3-2015 to 2021 (+৳ 530)
-
- AL-COM-qp4-2015 to 2016 (+৳ 230)
-
- AL-COM-qp4-2017 to 2021 (+৳ 490)
-
-ECONOMICS 9708
-AS Paper 1,2 || A2 Paper 3,4
-
- AL-ECO-qp1-2002 to 2010 (+৳ 290)
-
- AL-ECO-qp1-2011 to 2017 (+৳ 490)
-
- AL-ECO-qp1-2018 to 2024 (+৳ 490)
-
- AL-ECO-qp2-2001 to 2024 (+৳ 390)
-
- AL-ECO-qp3-2002 to 2010 (+৳ 290)
-
- AL-ECO-qp3-2011 to 2017 (+৳ 490)
-
- AL-ECO-qp3-2018 to 2024 (+৳ 490)
-
- AL-ECO-qp4-2002 to 2024 (+৳ 390)
-
-Environment Management 8291
- AL-ENV-qp2-2018 to 2024 (+৳ 490)
-
- AL-ENV-qp2-2013 to 2017 (+৳ 290)
-
- AL-ENV-qp1-2018 to 2024 (+৳ 490)
-
- AL-ENV-qp1-2013 to 2017 (+৳ 280)
-
-FURTHER MATH 9231
- AL-FPM-qp4-2020 to 2024 (+৳ 350)
-
- AL-FPM-qp3-2020 to 2024 (+৳ 380)
-
- AL-FPM-qp2-2020 to 2024 (+৳ 390)
-
- AL-FPM-qp2-2013 to 2019 (+৳ 490)
-
- AL-FPM-qp2-2002 to 2012 (+৳ 190)
-
- AL-FPM-qp1-2020 to 2024 (+৳ 390)
-
- AL-FPM-qp1-2013 to 2019 (+৳ 530)
-
- AL-FPM-qp1-2002 to 2012 (+৳ 190)
-
-INFORMATION TECHNOLOGY 9626
-INFORMATION TECHNOLOGY PASTPAPER 9626 (exam started from 2017)
-
- AL-ITE-qp1-2019 to 2024 (+৳ 480)
-
- AL-ITE-qp1-2017 to 2018 (+৳ 230)
-
- AL-ITE-qp2-2017 to 2024 (+৳ 150)
-
- AL-ITE-qp3-2018 to 2024 (+৳ 490)
-
- AL-ITE-qp3-2017 to 2017 (+৳ 100)
-
- AL-ITE-qp4-2017 to 2024 (+৳ 190)
-
-LAW 9084
-AS Paper 1,2 || A2 Paper 3,4
-
- AL-LAW-qp4-2004 to 2024 (+৳ 290)
-
- AL-LAW-qp3-2004 to 2024 (+৳ 290)
-
- AL-LAW-qp2-2002 to 2024 (+৳ 390)
-
- AL-LAW-qp1-2002 to 2024 (+৳ 190)
-
-MATH 9709
- AL-MAT-qp1-2002 to 2016 (+৳ 260)
-
- AL-MAT-qp1-2017 to 2020 (+৳ 490)
-
- AL-MAT-qp1-2021 to 2024 (+৳ 450)
-
- AL-MAT-qp2-2001 to 2018 (+৳ 370)
-
- AL-MAT-qp2-2019 to 2024 (+৳ 480)
-
- AL-MAT-qp3-2002 to 2015 (+৳ 190)
-
- AL-MAT-qp3-2016 to 2020 (+৳ 530)
-
- AL-MAT-qp3-2021 to 2024 (+৳ 450)
-
- AL-MAT-qp4-2001 to 2018 (Mechanics) (+৳ 390)
-
- AL-MAT-qp4-2019 to 2024 (Mechanics) (+৳ 480)
-
- AL-MAT-qp5-2001 to 2018 (Statistics 1) (+৳ 370)
-
- AL-MAT-qp5-2019 to 2024 (Statistics 1) (+৳ 480)
-
- AL-MAT-qp6-2002 to 2018 (Statistics 2) (+৳ 360)
-
- AL-MAT-qp6-2019 to 2024 (Statistics 2) (+৳ 460)
-
-Marine Science 9693
- AL-MAR-qp4-2009 to 2024 (+৳ 490)
-
- AL-MAR-qp3-2012 to 2024 (+৳ 490)
-
- AL-MAR-qp3-2009 to 2011 (+৳ 90)
-
- AL-MAR-qp2-2014 to 2024 (+৳ 490)
-
- AL-MAR-qp2-2008 to 2013 (+৳ 140)
-
- AL-MAR-qp1-2015 to 2024 (+৳ 490)
-
- AL-MAR-qp1-2008 to 2014 (+৳ 190)
-
-PSYCHOLOGY 9990 (Current)
-Starts from 2018 (first exam)
-
- AL-PSY-qp1-2018 to 2024 (+৳ 390)
-
- AL-PSY-qp2-2018 to 2024 (+৳ 450)
-
- AL-PSY-qp3-2018 to 2024 (+৳ 170)
-
- AL-PSY-qp4-2018 to 2024 (+৳ 250)
-
-PHYCHOLOGY 9698
-Ends in 2018 (Last exam)
-
- AL-PSY-qp1-2002 to 2018 (+৳ 290)
-
- AL-PSY-qp2-2002 to 2018 (+৳ 250)
-
- AL-PSY-qp3-2002 to 2002 (+৳ 60)
-
- AL-PSY-qp3-2003 to 2018 (+৳ 490)
-
- AL-PSY-qp4-2018 to 2018 (+৳ 80)
-
-PHYSICS 9702
- AL-PHY-qp1-2002 to 2007 (+৳ 240)
-
- AL-PHY-qp1-2008 to 2012 (+৳ 490)
-
- AL-PHY-qp1-2013 to 2016 (+৳ 530)
-
- AL-PHY-qp1-2017 to 2020 (+৳ 530)
-
- AL-PHY-qp1-2021 to 2024 (+৳ 460)
-
- AL-PHY-qp2-2002 to 2007 (+৳ 190)
-
- AL-PHY-qp2-2008 to 2014 (+৳ 490)
-
- AL-PHY-qp2-2015 to 2019 (+৳ 490)
-
- AL-PHY-qp2-2020 to 2024 (+৳ 490)
-
- AL-PHY-qp3-2002 to 2011 (+৳ 380)
-
- AL-PHY-qp3-2012 to 2016 (+৳ 530)
-
- AL-PHY-qp3-2017 to 2020 (+৳ 470)
-
- AL-PHY-qp3-2021 to 2024 (+৳ 460)
-
- AL-PHY-qp4-2002 to 2011 (+৳ 470)
-
- AL-PHY-qp4-2012 to 2016 (+৳ 480)
-
- AL-PHY-qp4-2017 to 2020 (+৳ 480)
-
- AL-PHY-qp4-2021 to 2024 (+৳ 470)
-
- AL-PHY-qp5-2002 to 2009 (+৳ 180)
-
- AL-PHY-qp5-2010 to 2024 (+৳ 490)
-
- AL-PHY-qp6-2002 to 2006 (+৳ 190)
-
-Sociology 9699
- AL-SOC-qp1-2002 to 2024 (+৳ 260)
-
- AL-SOC-qp2-2002 to 2024 (+৳ 480)
-
- AL-SOC-qp3-2002 to 2024 (+৳ 340)
-
- AL-SOC-qp4-2021 to 2024 (+৳ 90)
-
-Thinking Skills 9694
- AL-THI-qp1-2003 to 2008 (+৳ 290)
-
- AL-THI-qp1-2009 to 2013 (+৳ 490)
-
- AL-THI-qp1-2014 to 2018 (+৳ 490)
-
- AL-THI-qp1-2019 to 2024 (+৳ 490)
-
- AL-THI-qp2-2002 to 2005 (+৳ 80)
-
- AL-THI-qp2-2006 to 2024 (+৳ 530)
-
- AL-THI-qp3-2007 to 2012 (+৳ 380)
-
- AL-THI-qp3-2013 to 2024 (+৳ 490)
-
- AL-THI-qp4-2007 to 2011 (+৳ 190)
-
- AL-THI-qp4-2012 to 2024 (+৳ 490)`;
+Modify name	modified_price tk
+OL-ACC-ms1-2004 to 2024	190 tk
+OL-ACC-ms2-2004 to 2015	280 tk
+OL-ACC-ms2-2016 to 2024	480 tk
+OL-ACC-qp1-2002 to 2013	290 tk
+OL-ACC-qp1-2014 to 2024	480 tk
+OL-ACC-qp2-2002 to 2012	390 tk
+OL-ACC-qp2-2013 to 2018	470 tk
+OL-ACC-qp2-2019 to 2024	450 tk
+OL-ADD-ms1-2004 to 2011	190 tk
+OL-ADD-ms1-2012 to 2024	480 tk
+OL-ADD-ms2-2004 to 2011	180 tk
+OL-ADD-ms2-2012 to 2024	460 tk
+OL-ADD-qp1-2002 to 2010	150 tk
+OL-ADD-qp1-2011 to 2017	470 tk
+OL-ADD-qp1-2018 to 2024	440 tk
+OL-ADD-qp2-2002 to 2004	80 tk
+OL-ADD-qp2-2005 to 2016	480 tk
+OL-ADD-qp2-2017 to 2024	480 tk
+OL-BDS-ms1-2006 to 2024	190 tk
+OL-BDS-ms2-2006 to 2024	260 tk
+OL-BDS-qp1-2006 to 2024	160 tk
+OL-BDS-qp2-2006 to 2024	330 tk
+	70 tk
+OL-BEN-ms1-2008 to 2024	140 tk
+OL-BEN-ms2-2008 to 2024	180 tk
+OL-BEN-qp1-2004 to 2024	130 tk
+OL-BEN-qp2-2004 to 2024	270 tk
+OL-BIO-ms1-2004 to 2024	190 tk
+OL-BIO-ms2-2004 to 2014	270 tk
+OL-BIO-ms2-2015 to 2024	450 tk
+OL-BIO-ms3-2004 to 2024	390 tk
+OL-BIO-ms4-2004 to 2024	390 tk
+OL-BIO-ms6-2004 to 2022	350 tk
+OL-BIO-qp1-2002 to 2010	380 tk
+OL-BIO-qp1-2011 to 2017	470 tk
+OL-BIO-qp1-2018 to 2024	490 tk
+OL-BIO-qp2-2002 to 2007	160 tk
+OL-BIO-qp2-2008 to 2016	470 tk
+OL-BIO-qp2-2017 to 2024	450 tk
+OL-BIO-qp3-2002 to 2010	190 tk
+OL-BIO-qp3-2011 to 2024	480 tk
+OL-BIO-qp4-2002 to 2011	230 tk
+OL-BIO-qp4-2012 to 2024	470 tk
+OL-BIO-qp6-2002 to 2009	160 tk
+OL-BIO-qp6-2010 to 2022	480 tk
+OL-BIO-qpe-2009 to 2009	50 tk
+OL-BUS-ms1-2010 to 2010	90 tk
+OL-BUS-ms1-2011 to 2019	460 tk
+OL-BUS-ms1-2020 to 2024	480 tk
+OL-BUS-ms2-2010 to 2018	430 tk
+OL-BUS-ms2-2019 to 2024	450 tk
+OL-BUS-qp1-2010 to 2013	190 tk
+OL-BUS-qp1-2014 to 2024	450 tk
+OL-BUS-qp2-2010 to 2015	340 tk
+OL-BUS-qp2-2016 to 2024	480 tk
+OL-CHE-ms1-2004 to 2024	190 tk
+OL-CHE-ms2-2004 to 2012	190 tk
+OL-CHE-ms2-2013 to 2024	470 tk
+OL-CHE-ms3-2004 to 2024	390 tk
+OL-CHE-ms4-2004 to 2024	390 tk
+OL-CHE-qp1-2002 to 2007	190 tk
+OL-CHE-qp1-2008 to 2016	480 tk
+OL-CHE-qp1-2017 to 2024	480 tk
+OL-CHE-qp2-2002 to 2011	390 tk
+OL-CHE-qp2-2012 to 2017	430 tk
+OL-CHE-qp2-2018 to 2024	480 tk
+OL-CHE-qp3-2002 to 2004	80 tk
+OL-CHE-qp3-2005 to 2024	470 tk
+OL-CHE-qp4-2002 to 2006	170 tk
+OL-CHE-qp4-2007 to 2015	480 tk
+OL-CHE-qp4-2016 to 2024	470 tk
+OL-CMR-ms1-2004 to 2024	190 tk
+OL-CMR-ms2-2005 to 2011	290 tk
+OL-CMR-ms2-2012 to 2018	460 tk
+OL-CMR-ms2-2019 to 2024	470 tk
+OL-CMR-qp1-2002 to 2014	370 tk
+OL-CMR-qp1-2015 to 2024	460 tk
+OL-CMR-qp2-2005 to 2012	190 tk
+OL-CMR-qp2-2013 to 2024	460 tk
+OL-COM-ms1-2010 to 2014	280 tk
+OL-COM-ms1-2010 to 2017	150 tk
+OL-COM-ms1-2015 to 2024	390 tk
+OL-COM-ms2-2010 to 2017	90 tk
+OL-COM-ms2-2015 to 2024	370 tk
+OL-COM-ms3-2011 to 2014	150 tk
+OL-COM-ms3-2010 to 2015	80 tk
+OL-COM-qp1-2010 to 2014	450 tk
+OL-COM-qp1-2010 to 2017	240 tk
+OL-COM-qp1-2015 to 2024	440 tk
+OL-COM-qp2-2010 to 2017	190 tk
+OL-COM-qp2-2015 to 2024	470 tk
+OL-COM-qp3-2011 to 2014	190 tk
+OL-COM-qp3-2010 to 2015	90 tk
+OL-DMA-ms1-2004 to 2024	390 tk
+OL-DMA-ms2-2004 to 2005	70 tk
+OL-DMA-ms2-2006 to 2024	470 tk
+OL-DMA-qp1-2002 to 2011	440 tk
+OL-DMA-qp1-2012 to 2017	470 tk
+OL-DMA-qp1-2018 to 2024	480 tk
+OL-DMA-qp2-2002 to 2002	60 tk
+OL-DMA-qp2-2003 to 2013	480 tk
+OL-DMA-qp2-2014 to 2018	430 tk
+OL-DMA-qp2-2019 to 2024	450 tk
+OL-ECO-ms1-2004 to 2024	190 tk
+OL-ECO-ms2-2004 to 2011	160 tk
+OL-ECO-ms2-2012 to 2019	460 tk
+OL-ECO-ms2-2020 to 2024	460 tk
+OL-ECO-qp1-2003 to 2013	380 tk
+OL-ECO-qp1-2014 to 2024	470 tk
+OL-ECO-qp2-2002 to 2024	360 tk
+OL-ENG-ms1-2004 to 2015	280 tk
+OL-ENG-ms1-2016 to 2024	470 tk
+OL-ENG-ms2-2004 to 2005	80 tk
+OL-ENG-ms2-2006 to 2016	480 tk
+OL-ENG-ms2-2017 to 2024	480 tk
+OL-ENG-qp1-2002 to 2024	290 tk
+OL-ENG-qp2-2002 to 2012	190 tk
+OL-ENG-qp2-2013 to 2024	480 tk
+OL-ENV-ms1-2006 to 2012	190 tk
+OL-ENV-ms1-2013 to 2024	460 tk
+OL-ENV-ms2-2004 to 2024	380 tk
+OL-ENV-qp1-2004 to 2011	460 tk
+OL-ENV-qp1-2012 to 2016	450 tk
+OL-ENV-qp1-2017 to 2024	430 tk
+OL-ENV-qp2-2004 to 2005	90 tk
+OL-ENV-qp2-2006 to 2015	480 tk
+OL-ENV-qp2-2016 to 2024	470 tk
+OL-GEO-i22-2018 to 2024	70 tk
+OL-GEO-in1-2217 to 2217	60 tk
+OL-GEO-in2-2217 to 2217	90 tk
+OL-GEO-ms1-2005 to 2013	390 tk
+OL-GEO-ms1-2014 to 2024	480 tk
+OL-GEO-ms2-2005 to 2005	60 tk
+OL-GEO-ms2-2006 to 2024	480 tk
+OL-GEO-ms3-2020 to 2024	90 tk
+OL-GEO-n18-2217 to 2217	50 tk
+OL-GEO-n28-2217 to 2217	60 tk
+OL-GEO-qp1-2004 to 2011	450 tk
+OL-GEO-qp1-2012 to 2014	380 tk
+OL-GEO-qp1-2015 to 2017	390 tk
+OL-GEO-qp1-2018 to 2024	440 tk
+OL-GEO-qp2-2004 to 2007	190 tk
+OL-GEO-qp2-2008 to 2011	440 tk
+OL-GEO-qp2-2012 to 2014	390 tk
+OL-GEO-qp2-2015 to 2017	390 tk
+OL-GEO-qp2-2018 to 2024	390 tk
+OL-GEO-qp3-2020 to 2024	190 tk
+OL-GEO-qpn-2217 to 2217	70 tk
+OL-GEO-qpp-2217 to 2217	50 tk
+OL-GEO-qpr-2217 to 2217	70 tk
+OL-HIS-ms1-2022 to 2022	180 tk
+OL-HIS-ms2-2022 to 2022	80 tk
+OL-HIS-qp1-2022 to 2023	90 tk
+OL-HIS-qp2-2022 to 2023	90 tk
+OL-ISL-ms1-2004 to 2015	230 tk
+OL-ISL-ms1-2017 to 2024	290 tk
+OL-ISL-ms1-2016 to 2024	480 tk
+OL-ISL-ms2-2004 to 2013	170 tk
+OL-ISL-ms2-2014 to 2024	480 tk
+OL-ISL-ms2-2017 to 2024	290 tk
+OL-ISL-ms4-2013 to 2013	60 tk
+OL-ISL-qp1-2002 to 2016	370 tk
+OL-ISL-qp1-2017 to 2024	490 tk
+OL-ISL-qp1-2017 to 2024	90 tk
+OL-ISL-qp2-2003 to 2016	360 tk
+OL-ISL-qp2-2017 to 2024	470 tk
+OL-ISL-qp2-2017 to 2024	90 tk
+OL-ISL-qp4-2013 to 2013	80 tk
+OL-LIT-ms1-2022 to 2024	90 tk
+OL-LIT-ms2-2022 to 2024	90 tk
+OL-LIT-qp1-2023 to 2024	180 tk
+OL-LIT-qp2-2023 to 2024	90 tk
+OL-MAR-ms1-2022 to 2023	80 tk
+OL-MAR-ms2-2022 to 2023	70 tk
+OL-MAR-ms3-2022 to 2023	70 tk
+OL-PHY-ms1-2004 to 2024	190 tk
+OL-PHY-ms2-2004 to 2010	90 tk
+OL-PHY-ms2-2011 to 2024	480 tk
+OL-PHY-ms3-2004 to 2024	360 tk
+OL-PHY-ms4-2004 to 2024	350 tk
+OL-PHY-qp1-2002 to 2010	340 tk
+OL-PHY-qp1-2011 to 2017	440 tk
+OL-PHY-qp1-2018 to 2024	450 tk
+OL-PHY-qp2-2002 to 2010	290 tk
+OL-PHY-qp2-2011 to 2017	470 tk
+OL-PHY-qp2-2018 to 2024	480 tk
+OL-PHY-qp3-2002 to 2014	330 tk
+OL-PHY-qp3-2015 to 2024	460 tk
+OL-PHY-qp4-2002 to 2012	270 tk
+OL-PHY-qp4-2013 to 2024	480 tk
+OL-SCI-ms1-2022 to 2024	80 tk
+OL-SCI-ms2-2022 to 2024	150 tk
+OL-SCI-ms3-2023 to 2024	90 tk
+OL-SCI-qp1-2023 to 2024	130 tk
+OL-SCI-qp2-2023 to 2024	150 tk
+OL-SCI-qp3-2023 to 2024	130 tk
+OL-SOC-ms1-2005 to 2007	90 tk
+OL-SOC-ms1-2008 to 2017	480 tk
+OL-SOC-ms1-2018 to 2024	430 tk
+OL-SOC-ms2-2005 to 2013	290 tk
+OL-SOC-ms2-2014 to 2018	450 tk
+OL-SOC-ms2-2019 to 2024	440 tk
+OL-SOC-qp1-2002 to 2005	70 tk
+OL-SOC-qp1-2006 to 2024	490 tk
+OL-SOC-qp2-2002 to 2010	170 tk
+OL-SOC-qp2-2011 to 2024	480 tk
+OL-STA-ms1-2009 to 2024	190 tk
+OL-STA-ms2-2009 to 2024	230 tk
+OL-STA-qp1-2002 to 2011	230 tk
+OL-STA-qp1-2012 to 2024	440 tk
+OL-STA-qp2-2002 to 2010	170 tk
+OL-STA-qp2-2011 to 2024	480 tk
+AL-CHE-ms3-2021 to 2024	450 tk
+AL-CHE-ms4-2002 to 2009	140 tk
+AL-CHE-ms4-2010 to 2019	480 tk
+AL-CHE-ms4-2020 to 2024	430 tk
+AL-CHE-ms5-2002 to 2008	90 tk
+AL-CHE-ms5-2009 to 2024	480 tk
+AL-CHE-ms6-2002 to 2006	90 tk
+AL-CHE-qp1-2002 to 2011	390 tk
+AL-CHE-qp1-2012 to 2016	440 tk
+AL-CHE-qp1-2017 to 2020	390 tk
+AL-CHE-qp1-2021 to 2024	470 tk
+AL-CHE-qp2-2002 to 2004	90 tk
+AL-CHE-qp2-2005 to 2015	480 tk
+AL-CHE-qp2-2016 to 2020	440 tk
+AL-CHE-qp2-2021 to 2024	390 tk
+AL-CHE-qp3-2001 to 2011	450 tk
+AL-CHE-qp3-2012 to 2015	460 tk
+AL-CHE-qp3-2016 to 2018	390 tk
+AL-CHE-qp3-2019 to 2021	440 tk
+AL-CHE-qp3-2022 to 2024	390 tk
+AL-CHE-qp4-2002 to 2010	290 tk
+AL-CHE-qp4-2011 to 2016	440 tk
+AL-CHE-qp4-2017 to 2020	390 tk
+AL-CHE-qp4-2021 to 2024	480 tk
+AL-CHE-qp5-2002 to 2016	440 tk
+AL-CHE-qp5-2017 to 2024	460 tk
+AL-CHE-qp6-2002 to 2006	130 tk
+AL-COM-ms1-2015 to 2021	390 tk
+AL-COM-ms1-2021 to 2024	250 tk
+AL-COM-ms2-2015 to 2016	180 tk
+AL-COM-ms2-2017 to 2021	450 tk
+AL-COM-ms2-2021 to 2024	290 tk
+AL-COM-ms3-2015 to 2021	290 tk
+AL-COM-ms3-2021 to 2024	290 tk
+AL-COM-ms4-2015 to 2017	250 tk
+AL-COM-ms4-2018 to 2021	390 tk
+AL-COM-ms4-2021 to 2022	290 tk
+AL-COM-ms4-2023 to 2024	450 tk
+AL-COM-qp1-2015 to 2016	190 tk
+AL-COM-qp1-2017 to 2021	390 tk
+AL-COM-qp1-2021 to 2024	360 tk
+AL-COM-qp2-2015 to 2017	290 tk
+AL-COM-qp2-2021 to 2021	160 tk
+AL-COM-qp2-2018 to 2021	390 tk
+AL-COM-qp2-2022 to 2024	390 tk
+AL-COM-qp3-2015 to 2015	90 tk
+AL-COM-qp3-2016 to 2021	460 tk
+AL-COM-qp3-2021 to 2024	290 tk
+AL-COM-qp4-2015 to 2017	290 tk
+AL-COM-qp4-2018 to 2021	390 tk
+AL-COM-qp4-2021 to 2024	270 tk
+AL-DES-ms1-2023 to 2023	70 tk
+AL-DES-ms3-2023 to 2023	70 tk
+AL-DES-qp0-2023 to 2023	60 tk
+	80 tk
+AL-ECO-ms1-2003 to 2024	290 tk
+AL-ECO-ms2-2001 to 2007	90 tk
+AL-ECO-ms2-2008 to 2020	480 tk
+AL-ECO-ms2-2021 to 2024	450 tk
+AL-ECO-ms3-2004 to 2024	290 tk
+AL-ECO-ms4-2002 to 2011	190 tk
+AL-ECO-ms4-2012 to 2019	480 tk
+AL-ECO-ms4-2020 to 2024	480 tk
+AL-ECO-qp1-2002 to 2012	390 tk
+AL-ECO-qp1-2013 to 2018	480 tk
+AL-ECO-qp1-2019 to 2024	470 tk
+AL-ECO-qp2-2001 to 2024	390 tk
+AL-ECO-qp3-2002 to 2012	390 tk
+AL-ECO-qp3-2013 to 2018	450 tk
+AL-ECO-qp3-2019 to 2024	480 tk
+AL-ECO-qp4-2002 to 2024	390 tk
+AL-ELA-ms1-2022 to 2023	130 tk
+AL-ELA-ms1-2014 to 2023	430 tk
+AL-ELA-ms2-2022 to 2023	150 tk
+AL-ELA-ms2-2014 to 2023	390 tk
+AL-ELA-ms3-2014 to 2023	460 tk
+AL-ELA-ms4-2014 to 2023	430 tk
+AL-ELA-qp1-2022 to 2023	80 tk
+AL-ELA-qp1-2014 to 2023	440 tk
+AL-ELA-qp2-2014 to 2023	180 tk
+AL-ELA-qp2-2022 to 2023	190 tk
+AL-ELA-qp3-2014 to 2023	340 tk
+AL-ELA-qp4-2014 to 2023	360 tk
+AL-ELI-ms1-2021 to 2023	250 tk
+AL-ELI-ms2-2021 to 2023	290 tk
+AL-ELI-ms3-2002 to 2013	160 tk
+AL-ELI-ms3-2014 to 2023	470 tk
+AL-ELI-ms4-2009 to 2015	190 tk
+AL-ELI-ms4-2016 to 2023	480 tk
+AL-ELI-ms5-2009 to 2020	380 tk
+AL-ELI-ms6-2009 to 2020	360 tk
+AL-ELI-ms7-2002 to 2020	360 tk
+AL-ELI-qp0-2007 to 2007	80 tk
+AL-ELI-qp1-2021 to 2023	330 tk
+AL-ELI-qp2-2021 to 2023	250 tk
+AL-ELI-qp3-2002 to 2011	330 tk
+AL-ELI-qp3-2012 to 2017	430 tk
+AL-ELI-qp3-2018 to 2023	470 tk
+AL-ELI-qp4-2002 to 2006	150 tk
+AL-ELI-qp4-2007 to 2014	470 tk
+AL-ELI-qp4-2015 to 2020	450 tk
+AL-ELI-qp4-2021 to 2023	470 tk
+AL-ELI-qp5-2002 to 2002	70 tk
+AL-ELI-qp5-2003 to 2011	480 tk
+AL-ELI-qp5-2012 to 2016	490 tk
+AL-ELI-qp5-2017 to 2020	440 tk
+AL-ELI-qp6-2002 to 2010	290 tk
+AL-ELI-qp6-2011 to 2015	440 tk
+AL-ELI-qp6-2016 to 2020	480 tk
+AL-ELI-qp7-2002 to 2010	180 tk
+AL-ELI-qp7-2011 to 2020	450 tk
+AL-ENG-ms1-2024 to 2024	90 tk
+AL-ENG-ms1-2023 to 2024	180 tk
+AL-ENG-ms1-2024 to 2024	150 tk
+AL-ENG-ms1-2024 to 2024	90 tk
+AL-ENG-ms2-2024 to 2024	130 tk
+AL-ENG-ms2-2024 to 2024	90 tk
+AL-ENG-ms2-2023 to 2024	150 tk
+AL-ENG-ms2-2024 to 2024	90 tk
+AL-ENG-ms3-2024 to 2024	90 tk
+AL-ENG-ms3-2024 to 2024	130 tk
+AL-ENG-ms4-2024 to 2024	90 tk
+AL-ENG-ms4-2024 to 2024	140 tk
+AL-ENG-qp1-2023 to 2024	80 tk
+AL-ENG-qp1-2024 to 2024	140 tk
+AL-ENG-qp1-2024 to 2024	70 tk
+AL-ENG-qp1-2024 to 2024	90 tk
+AL-ENG-qp2-2024 to 2024	160 tk
+AL-ENG-qp2-2024 to 2024	70 tk
+AL-ENG-qp2-2023 to 2024	190 tk
+AL-ENG-qp2-2024 to 2024	90 tk
+AL-ENG-qp3-2024 to 2024	90 tk
+AL-ENG-qp3-2024 to 2024	90 tk
+AL-ENG-qp4-2024 to 2024	180 tk
+AL-ENG-qp4-2024 to 2024	80 tk
+AL-ENV-ms1-2013 to 2019	360 tk
+AL-ENV-ms1-2020 to 2024	480 tk
+AL-ENV-ms2-2013 to 2018	370 tk
+AL-ENV-ms2-2019 to 2024	430 tk
+AL-ENV-qp1-2013 to 2019	390 tk
+AL-ENV-qp1-2020 to 2024	450 tk
+AL-ENV-qp2-2013 to 2019	390 tk
+AL-ENV-qp2-2020 to 2024	470 tk
+AL-FPM-ms1-2008 to 2014	370 tk
+AL-FPM-ms1-2015 to 2019	470 tk
+AL-FPM-ms1-2020 to 2024	450 tk
+AL-FPM-ms2-2008 to 2013	190 tk
+AL-FPM-ms2-2014 to 2019	450 tk
+AL-FPM-ms2-2020 to 2024	390 tk
+AL-FPM-ms3-2020 to 2024	390 tk
+AL-FPM-ms4-2020 to 2024	380 tk
+AL-FPM-qp1-2002 to 2014	230 tk
+AL-FPM-qp1-2015 to 2019	480 tk
+AL-FPM-qp1-2020 to 2024	460 tk
+AL-FPM-qp2-2002 to 2014	270 tk
+AL-FPM-qp2-2015 to 2019	470 tk
+AL-FPM-qp2-2020 to 2024	470 tk
+AL-FPM-qp3-2020 to 2024	390 tk
+AL-FPM-qp4-2020 to 2024	380 tk
+	80 tk
+AL-GEO-ms1-2002 to 2012	460 tk
+AL-GEO-ms1-2013 to 2017	460 tk
+AL-GEO-ms1-2018 to 2023	480 tk
+AL-GEO-ms2-2002 to 2011	240 tk
+AL-GEO-ms2-2012 to 2018	470 tk
+AL-GEO-ms2-2019 to 2023	440 tk
+AL-GEO-ms3-2004 to 2014	390 tk
+AL-GEO-ms3-2015 to 2019	460 tk
+AL-GEO-ms3-2020 to 2023	470 tk
+AL-GEO-ms4-2018 to 2020	390 tk
+AL-GEO-ms4-2021 to 2023	390 tk
+AL-GEO-qp1-2002 to 2003	80 tk
+AL-GEO-qp1-2004 to 2014	480 tk
+AL-GEO-qp1-2015 to 2023	440 tk
+AL-GEO-qp2-2002 to 2012	290 tk
+AL-GEO-qp2-2013 to 2023	460 tk
+AL-GEO-qp3-2002 to 2012	240 tk
+AL-GEO-qp3-2013 to 2023	480 tk
+AL-GEO-qp4-2018 to 2023	280 tk
+AL-GEO-sju-9696 to 9696	60 tk
+AL-HIS-ms1-2023 to 2024	170 tk
+AL-HIS-ms2-2023 to 2024	250 tk
+AL-HIS-ms3-2023 to 2024	90 tk
+AL-HIS-ms4-2023 to 2024	190 tk
+AL-HIS-qp1-2023 to 2024	90 tk
+AL-HIS-qp2-2023 to 2024	90 tk
+AL-HIS-qp3-2023 to 2024	90 tk
+AL-HIS-qp4-2023 to 2024	80 tk
+AL-ISL-ms1-2023 to 2024	90 tk
+AL-ISL-ms2-2023 to 2024	90 tk
+AL-ISL-ms3-2023 to 2024	90 tk
+AL-ISL-ms4-2023 to 2024	80 tk
+AL-ISL-qp1-2023 to 2024	60 tk
+AL-ISL-qp2-2023 to 2024	60 tk
+AL-ISL-qp3-2023 to 2024	60 tk
+AL-ISL-qp4-2023 to 2024	60 tk
+AL-ITE-ms1-2017 to 2017	90 tk
+AL-ITE-ms1-2018 to 2024	460 tk
+AL-ITE-ms2-2017 to 2024	280 tk
+AL-ITE-ms3-2017 to 2024	480 tk
+AL-ITE-ms4-2017 to 2024	260 tk
+AL-ITE-qp1-2017 to 2019	290 tk
+AL-ITE-qp1-2020 to 2024	390 tk
+AL-ITE-qp2-2017 to 2024	150 tk
+AL-ITE-qp3-2017 to 2018	190 tk
+AL-ITE-qp3-2019 to 2024	460 tk
+AL-ITE-qp4-2017 to 2024	190 tk
+	70 tk
+AL-LAW-ms1-2004 to 2017	290 tk
+AL-LAW-ms1-2018 to 2024	450 tk
+AL-LAW-ms2-2004 to 2015	230 tk
+AL-LAW-ms2-2016 to 2024	470 tk
+AL-LAW-ms3-2004 to 2016	340 tk
+AL-LAW-ms3-2017 to 2024	480 tk
+AL-LAW-ms4-2004 to 2014	290 tk
+AL-LAW-ms4-2015 to 2024	480 tk
+AL-LAW-qp1-2002 to 2024	230 tk
+AL-LAW-qp2-2002 to 2024	390 tk
+AL-LAW-qp3-2004 to 2024	290 tk
+AL-LAW-qp4-2004 to 2024	290 tk
+AL-MAR-ms1-2008 to 2015	90 tk
+AL-MAR-ms1-2016 to 2024	480 tk
+AL-MAR-ms2-2008 to 2024	470 tk
+AL-MAR-ms3-2009 to 2024	440 tk
+AL-MAR-ms4-2009 to 2024	390 tk
+AL-MAR-qp1-2008 to 2017	270 tk
+AL-MAR-qp1-2018 to 2024	470 tk
+AL-MAR-qp2-2008 to 2018	250 tk
+AL-MAR-qp2-2019 to 2024	470 tk
+AL-MAR-qp3-2009 to 2014	190 tk
+AL-MAR-qp3-2015 to 2024	480 tk
+AL-MAR-qp4-2009 to 2013	90 tk
+AL-MAR-qp4-2014 to 2024	490 tk
+AL-MAT-ms1-2001 to 2003	140 tk
+AL-MAT-ms1-2004 to 2017	460 tk
+AL-MAT-ms1-2018 to 2021	440 tk
+AL-MAT-ms1-2022 to 2024	380 tk
+AL-MAT-ms2-2001 to 2018	430 tk
+AL-MAT-ms2-2019 to 2024	470 tk
+AL-MAT-ms3-2002 to 2017	470 tk
+AL-MAT-ms3-2018 to 2021	430 tk
+AL-MAT-ms3-2022 to 2024	390 tk
+AL-MAT-ms4-2001 to 2012	230 tk
+AL-MAT-ms4-2013 to 2020	470 tk
+AL-MAT-ms4-2021 to 2024	450 tk
+AL-MAT-ms5-2001 to 2013	250 tk
+AL-MAT-ms5-2014 to 2020	470 tk
+AL-MAT-ms5-2021 to 2024	450 tk
+AL-MAT-ms6-2002 to 2018	470 tk
+AL-MAT-ms6-2019 to 2024	480 tk
+	80 tk
+	480 tk
+AL-MAT-qp1-2002 to 2003	70 tk
+AL-MAT-qp1-2004 to 2018	480 tk
+AL-MAT-qp1-2019 to 2021	390 tk
+AL-MAT-qp1-2022 to 2024	390 tk
+AL-MAT-qp2-2001 to 2019	440 tk
+AL-MAT-qp2-2020 to 2024	450 tk
+AL-MAT-qp3-2002 to 2018	460 tk
+AL-MAT-qp3-2019 to 2021	390 tk
+AL-MAT-qp3-2022 to 2024	390 tk
+AL-MAT-qp4-2001 to 2019	480 tk
+AL-MAT-qp4-2020 to 2024	430 tk
+AL-MAT-qp5-2001 to 2019	450 tk
+AL-MAT-qp5-2020 to 2024	430 tk
+AL-MAT-qp6-2002 to 2019	430 tk
+AL-MAT-qp6-2020 to 2024	390 tk
+	70 tk
+	480 tk
+AL-MED-ms2-2023 to 2024	90 tk
+AL-MED-ms4-2023 to 2024	90 tk
+AL-MED-qp0-2023 to 2023	50 tk
+AL-MED-qp2-2024 to 2024	60 tk
+AL-MED-qp4-2024 to 2024	60 tk
+AL-PHY-ci3-2023 to 2023	90 tk
+	90 tk
+AL-PHY-ms1-2003 to 2024	290 tk
+AL-PHY-ms2-2002 to 2019	430 tk
+AL-PHY-ms2-2020 to 2024	440 tk
+AL-PHY-ms3-2002 to 2009	130 tk
+AL-PHY-ms3-2010 to 2019	480 tk
+AL-PHY-ms3-2020 to 2024	480 tk
+AL-PHY-ms4-2002 to 2019	440 tk
+AL-PHY-ms4-2020 to 2024	460 tk
+AL-PHY-ms5-2002 to 2011	140 tk
+AL-PHY-ms5-2012 to 2024	480 tk
+AL-PHY-ms6-2002 to 2006	90 tk
+AL-PHY-qp1-2002 to 2008	270 tk
+AL-PHY-qp1-2009 to 2012	470 tk
+AL-PHY-qp1-2013 to 2015	390 tk
+AL-PHY-qp1-2016 to 2018	390 tk
+AL-PHY-qp1-2019 to 2021	390 tk
+AL-PHY-qp1-2022 to 2024	380 tk
+AL-PHY-qp2-2002 to 2011	470 tk
+AL-PHY-qp2-2012 to 2016	440 tk
+AL-PHY-qp2-2017 to 2020	390 tk
+AL-PHY-qp2-2021 to 2024	440 tk
+AL-PHY-qp3-2002 to 2006	90 tk
+AL-PHY-qp3-2007 to 2013	480 tk
+AL-PHY-qp3-2014 to 2017	480 tk
+AL-PHY-qp3-2018 to 2021	480 tk
+AL-PHY-qp3-2022 to 2024	390 tk
+AL-PHY-qp4-2002 to 2011	470 tk
+AL-PHY-qp4-2012 to 2016	480 tk
+AL-PHY-qp4-2017 to 2020	480 tk
+AL-PHY-qp4-2021 to 2024	470 tk
+AL-PHY-qp5-2002 to 2011	240 tk
+AL-PHY-qp5-2012 to 2024	480 tk
+AL-PHY-qp6-2002 to 2006	190 tk
+AL-PHY-qpe-2009 to 2009	50 tk
+AL-PSY-ms1-2002 to 2013	390 tk
+AL-PSY-ms1-2014 to 2018	440 tk
+AL-PSY-ms1-2018 to 2019	180 tk
+AL-PSY-ms1-2020 to 2024	470 tk
+AL-PSY-ms2-2002 to 2011	260 tk
+AL-PSY-ms2-2012 to 2018	450 tk
+AL-PSY-ms2-2018 to 2020	290 tk
+AL-PSY-ms2-2021 to 2024	470 tk
+AL-PSY-ms3-2002 to 2007	180 tk
+AL-PSY-ms3-2008 to 2012	480 tk
+AL-PSY-ms3-2013 to 2015	390 tk
+AL-PSY-ms3-2018 to 2018	160 tk
+AL-PSY-ms3-2016 to 2018	450 tk
+AL-PSY-ms3-2019 to 2021	450 tk
+AL-PSY-ms3-2022 to 2023	390 tk
+AL-PSY-ms3-2024 to 2024	360 tk
+AL-PSY-ms4-2018 to 2018	160 tk
+AL-PSY-ms4-2018 to 2019	290 tk
+AL-PSY-ms4-2020 to 2022	470 tk
+AL-PSY-ms4-2023 to 2024	390 tk
+AL-PSY-qp1-2002 to 2018	290 tk
+AL-PSY-qp1-2018 to 2024	430 tk
+AL-PSY-qp2-2002 to 2018	250 tk
+AL-PSY-qp2-2018 to 2024	480 tk
+AL-PSY-qp3-2002 to 2004	90 tk
+AL-PSY-qp3-2005 to 2018	480 tk
+AL-PSY-qp3-2018 to 2024	180 tk
+AL-PSY-qp4-2018 to 2018	80 tk
+AL-PSY-qp4-2018 to 2024	260 tk
+	70 tk
+	90 tk
+AL-SOC-ms1-2002 to 2012	250 tk
+AL-SOC-ms1-2013 to 2020	480 tk
+AL-SOC-ms1-2021 to 2024	460 tk
+AL-SOC-ms2-2002 to 2011	180 tk
+AL-SOC-ms2-2012 to 2020	480 tk
+AL-SOC-ms2-2021 to 2024	480 tk
+AL-SOC-ms3-2002 to 2008	180 tk
+AL-SOC-ms3-2009 to 2014	480 tk
+AL-SOC-ms3-2015 to 2019	470 tk
+AL-SOC-ms3-2020 to 2024	440 tk
+AL-SOC-ms4-2021 to 2024	480 tk
+AL-SOC-qp1-2002 to 2024	260 tk
+AL-SOC-qp2-2002 to 2002	50 tk
+AL-SOC-qp2-2003 to 2024	490 tk
+AL-SOC-qp3-2002 to 2024	340 tk
+AL-SOC-qp4-2021 to 2024	90 tk
+	90 tk
+AL-THI-ms1-2003 to 2024	430 tk
+AL-THI-ms2-2003 to 2016	450 tk
+AL-THI-ms2-2017 to 2024	480 tk
+AL-THI-ms3-2007 to 2013	190 tk
+AL-THI-ms3-2014 to 2024	480 tk
+AL-THI-ms4-2007 to 2018	470 tk
+AL-THI-ms4-2019 to 2024	460 tk
+AL-THI-qp1-2003 to 2005	170 tk
+AL-THI-qp1-2006 to 2011	440 tk
+AL-THI-qp1-2012 to 2015	430 tk
+AL-THI-qp1-2016 to 2019	440 tk
+AL-THI-qp1-2020 to 2024	450 tk
+AL-THI-qp2-2002 to 2010	170 tk
+AL-THI-qp2-2011 to 2024	460 tk
+AL-THI-qp3-2007 to 2014	460 tk
+AL-THI-qp3-2015 to 2024	450 tk
+AL-THI-qp4-2007 to 2012	240 tk
+AL-THI-qp4-2013 to 2024	490 tk
+
+`; 
